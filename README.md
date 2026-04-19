@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Anatoliy and I'm a Front-end developer, from Lviv.</p>
+<p align="left">Driven by a deep-rooted passion for computer science, I love exploring how complex systems operate under the hood</p>
 
 ###
 
