@@ -2,16 +2,16 @@
 
 ###
 
-<p align="left">Driven by a deep-rooted passion for computer science, I love exploring how complex systems operate under the hood</p>
+<p align="left">I have a deep-rooted passion for computer science, which fuels my desire to explore how complex systems operate under the hood.</p>
 
 ###
 
 <h2 align="left">About me</h2>
 
 ###
-
+```json
 <p align="left">{<br>  "name": "Anatoliy",<br>  "role": "Front-end Developer",<br>  "education": "Computer Science, Lviv Polytechnic",<br>  "core_stack": ["JavaScript (ES6+)", "TypeScript", "React"],<br>  "state_management": ["Zustand"],<br>  "forms_and_data": ["React Hook Form", "REST API"],<br>  "styling": ["Tailwind CSS", "SCSS", "Responsive Design"],<br>  "backend_and_tools": ["Firebase", "SQL", "Vite", "JWT"],<br>  "devops_and_vcs": ["Git", "GitHub Actions", "CI/CD"],<br>  "focus": ["Clean Code", "System Architecture", "Microservices"]<br>}</p>
-
+```
 ###
 
 <h2 align="left">I code with</h2>
@@ -44,7 +44,7 @@
 
 ###
 
-<h2 align="left">My Linkedin</h2>
+<h2 align="left">My LinkedIn</h2>
 
 ###
 
