@@ -10,7 +10,18 @@
 
 ###
 ```json
-<p align="left">{<br>  "name": "Anatoliy",<br>  "role": "Front-end Developer",<br>  "education": "Computer Science, Lviv Polytechnic",<br>  "core_stack": ["JavaScript (ES6+)", "TypeScript", "React"],<br>  "state_management": ["Zustand"],<br>  "forms_and_data": ["React Hook Form", "REST API"],<br>  "styling": ["Tailwind CSS", "SCSS", "Responsive Design"],<br>  "backend_and_tools": ["Firebase", "SQL", "Vite", "JWT"],<br>  "devops_and_vcs": ["Git", "GitHub Actions", "CI/CD"],<br>  "focus": ["Clean Code", "System Architecture", "Microservices"]<br>}</p>
+{
+  "name": "Anatoliy",
+  "role": "Front-end Developer",
+  "education": "Computer Science, Lviv Polytechnic",
+  "core_stack": ["JavaScript (ES6+)", "TypeScript", "React"],
+  "state_management": ["Zustand"],
+  "forms_and_data": ["React Hook Form", "REST API"],
+  "styling": ["Tailwind CSS", "SCSS", "Responsive Design"],
+  "backend_and_tools": ["Firebase", "SQL", "Vite", "JWT"],
+  "devops_and_vcs": ["Git", "GitHub Actions", "CI/CD"],
+  "focus": ["Clean Code", "System Architecture", "Microservices"]
+}
 ```
 ###
 
