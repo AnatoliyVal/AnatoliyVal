@@ -43,7 +43,9 @@
 </div>
 
 ###
+
 <h2 align="left">My Linkedin</h2>
+
 ###
 
 <div align="left">
