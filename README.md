@@ -67,4 +67,6 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/AnatoliyVal/AnatoliyVal/output/snake.svg" alt="Snake animation" />
+
 ###
