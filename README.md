@@ -20,7 +20,6 @@
   "styling": ["Tailwind CSS", "SCSS", "Responsive Design"],
   "backend_and_tools": ["Firebase", "SQL", "NoSQL", "Vite", "JWT"],
   "devops_and_vcs": ["Git", "GitHub Actions", "CI/CD"],
-  "focus": ["Clean Code", "System Architecture", "Microservices"]
 }
 ```
 ###
